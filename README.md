@@ -1,24 +1,38 @@
-# Spaceship Titanic — Passenger Transport Prediction
+# 🚀 Spaceship Titanic — Passenger Transport Prediction
 
-A machine learning classification project for the Kaggle Spaceship Titanic competition.
+A machine learning classification project developed for the **Spaceship Titanic** Kaggle competition.
 
 The goal is to predict whether a passenger was transported to another dimension after the Spaceship Titanic anomaly.
 
-The project started with several baseline models and progressively explored feature engineering, different machine learning algorithms, ensemble strategies, and final CatBoost tuning.
+This project explores the full modeling process, from initial preprocessing and baseline models to feature engineering, ensemble methods, and final CatBoost optimization.
 
-## Dataset
+---
 
-The dataset is provided by the Kaggle **Spaceship Titanic** competition.
+## 📊 Dataset
 
-The original `train.csv` and `test.csv` files are not included in this repository.
+The dataset is provided by the **Kaggle Spaceship Titanic** competition.
 
-Dataset:
-https://www.kaggle.com/competitions/spaceship-titanic
+The original dataset contains passenger information such as:
 
-To run the notebook, download the competition dataset and place the files next to the notebook:
+- PassengerId
+- HomePlanet
+- CryoSleep
+- Cabin
+- Destination
+- Age
+- VIP
+- Spending information
+- Transported
+
+The original `train.csv` and `test.csv` files are **not included in this repository**.
+
+You can download the dataset directly from Kaggle:
+
+**https://www.kaggle.com/competitions/spaceship-titanic**
+
+After downloading, place the files next to the notebook:
 
 ```text
-spaceship-titanic-transport-prediction/
-├── train.csv
-├── test.csv
-└── spaceship_titanic_final.ipynb
+train.csv
+test.csv
+spaceship_titanic_final.ipynb
