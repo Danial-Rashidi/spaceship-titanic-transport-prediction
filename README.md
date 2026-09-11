@@ -35,6 +35,8 @@ After downloading, place the files next to the notebook:
 - train.csv
 - test.csv
 
+---
+
 ## Note
 The repository intentionally contains one integrated notebook rather than every experimental notebook and intermediate file.
 
