@@ -52,7 +52,7 @@ During development, several intermediate CSV files were created, including files
 - submission_knn.csv
 
 ---
-##🤖 Models
+## 🤖 Models
 
 Several different machine learning approaches were tested throughout the project:
 
@@ -64,7 +64,7 @@ K-Nearest Neighbors
 
 The experiments were used to compare different model families and determine which approaches were most effective for this classification problem.
 
-##📈 Model Results
+## 📈 Model Results
 
 The main Kaggle results obtained during development were:
 
@@ -78,7 +78,7 @@ KNN	0.70797
 
 Tree-based gradient boosting models performed substantially better than the Neural Network and KNN approaches.
 
-##🏆 Final Model
+## 🏆 Final Model
 
 CatBoost produced the strongest individual result and was therefore selected for further optimization.
 
@@ -96,7 +96,7 @@ Early stopping was used during validation to select an appropriate number of ite
 
 The best configuration was then retrained on the complete training dataset and used to generate the final submission.
 
-#🥇 Final Kaggle Result
+# 🥇 Final Kaggle Result
 
 Kaggle Score: 0.80757
 
