@@ -68,8 +68,9 @@ The experiments were used to compare different model families and determine whic
 
 The main Kaggle results obtained during development were:
 
-| Model	| Kaggle Score |
-| Random Forest baseline |	0.79541|
+| Model	| Kaggle Score|
+|---|---:|
+| Random Forest baseline |	0.79541 |
 | Random Forest + Feature Engineering |	0.79003|
 | CatBoost |	0.80687|
 | XGBoost |	0.80079|
