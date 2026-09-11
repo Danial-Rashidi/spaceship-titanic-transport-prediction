@@ -42,14 +42,14 @@ The repository intentionally contains one integrated notebook rather than every 
 
 During development, several intermediate CSV files were created, including files such as:
 
-train_clean.csv
-test_clean.csv
-submission1.csv
-submission2.csv
-submission_catboost.csv
-submission_Xgboost.csv
-submission_nn.csv
-submission_knn.csv
+- train_clean.csv
+- test_clean.csv
+- submission1.csv
+- submission2.csv
+- submission_catboost.csv
+- submission_Xgboost.csv
+- submission_nn.csv
+- submission_knn.csv
 
 ---
 ##🤖 Models
