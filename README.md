@@ -32,9 +32,8 @@ You can download the dataset directly from Kaggle:
 
 After downloading, place the files next to the notebook:
 
-```text
-train.csv
-test.csv
+- train.csv
+- test.csv
 
 ## Note
 The repository intentionally contains one integrated notebook rather than every experimental notebook and intermediate file.
